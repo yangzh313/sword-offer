@@ -37,3 +37,6 @@ class Solution:
                 indexOfOriginal -= 1
         return ''.join(newStr)
 
+    def testgit(self):
+        print("git test!")
+
